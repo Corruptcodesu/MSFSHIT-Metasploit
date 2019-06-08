@@ -1,0 +1,52 @@
+#!/system/bin/bash
+
+#disclaimer
+echo 'Absolutly no warrenty.Do not use this for illegal purposes..!!'
+
+red='\033[1;31m'
+printf $red
+echo '=========================================='
+figlet    MSFSHIT
+echo '=========================================='
+echo by AncrypeR [corruptcodesu]
+echo
+#
+#wifi method
+#=================
+#Wifi scan, crack, send & install the payload automatically.
+echo '[1]wifi msfshit'
+#scan
+#check
+#crack
+#login
+#path to files
+#share autorun script, payload, shell payload push start script,
+#scripts start
+#clear logs
+#exit
+
+#bluetooth method
+#=================
+#bluetooth scan, crack, send & install the payload automatically.
+echo '[2]bluetooth msfshit'
+#scan
+#check
+#crack
+#login
+#path to files
+#share autorun script, payload, shell payload push start script,
+#scripts start
+#clear logs
+#exit
+
+#special scripts
+
+#attack
+#exploit root script on kernel 
+#gain root access on victim's device
+#mv payload push start script>system files
+#mv payload to system apps
+#hide app icon
+#finish
+
+still writing 
