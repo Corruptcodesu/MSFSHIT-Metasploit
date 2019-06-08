@@ -1,2 +1,1 @@
-chmod +x install.sh
-./install.sh
+This project is in development stage.
